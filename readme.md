@@ -1,6 +1,8 @@
 # 对数几率模型在Iris数据集上的实现
 ---
-本代码属于机器学习的基础内容, 适合初学者使用.
+本代码属于机器学习的基础内容，适合初学者使用.
+
+建议在jupyter下运行，代码分为简单(demo_two_classification_only.ipynb)和适中(demo_all.ipynb)两个部分.
 
 本代码包含了：
 

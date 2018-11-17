@@ -1,7 +1,5 @@
 # 对数几率模型在Iris数据集上的实现
 ---
-本代码属于机器学习的基础内容，适合初学者使用.
-
 建议在jupyter notebook下运行，代码分为[简单：demo_two_classification_only.ipynb](https://github.com/zasle/Iris_logistic_classify/blob/master/demo_two_classification_only.ipynb)、[综合：demo_all.ipynb](https://github.com/zasle/Iris_logistic_classify/blob/master/demo_all.ipynb) 以及[模型可视化：plot_modle.ipynb](https://github.com/zasle/Iris_logistic_classify/blob/master/plot_modle.ipynb) 三个部分.
 
 代码包含了：
